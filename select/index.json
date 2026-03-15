@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Unknown△▼",
+  "base_artist": "川田まみ",
+  "createdAt": "2026-03-15T15:36:23.907158Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Strength Unknown",
+      "artist": "Stonebank feat. Nino Lucarelli",
+      "has_synced": true,
+      "path": "select/01_Strength_Unknown_Stonebank_feat._Nino_Lucarelli.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Strength Unknown",
+      "artist": "Stonebank",
+      "has_synced": true,
+      "path": "select/02_Strength_Unknown_Stonebank.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "On an Unknown Beach",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/03_On_an_Unknown_Beach_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Welcome 2 Unknown Death (Prod. Yung Sherman)",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/04_Welcome_2_Unknown_Death_(Prod._Yung_Sherman)_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Welcome 2 Unknown Death",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/05_Welcome_2_Unknown_Death_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sleeping Tiger & The Gods Unknown",
+      "artist": "The Orb",
+      "has_synced": false,
+      "path": "select/06_Sleeping_Tiger_&_The_Gods_Unknown_The_Orb.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Destination Unknown",
+      "artist": "Pig & Dan",
+      "has_synced": false,
+      "path": "select/07_Destination_Unknown_Pig_&_Dan.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Destination Unknown",
+      "artist": "Pig&Dan",
+      "has_synced": false,
+      "path": "select/08_Destination_Unknown_Pig&Dan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Unknown Caller",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/09_Unknown_Caller_U2.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "First Name Unknown",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/10_First_Name_Unknown_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Some Might Say - Live in '95 (venue unknown)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/11_Some_Might_Say_-_Live_in_'95_(venue_unknown)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Great Unknown",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/12_The_Great_Unknown_Travis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Diary of an Unknown Soldier",
+      "artist": "Sabaton",
+      "has_synced": false,
+      "path": "select/13_Diary_of_an_Unknown_Soldier_Sabaton.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Unknown Delight",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/14_Unknown_Delight_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Unknown to the I",
+      "artist": "Drab Majesty",
+      "has_synced": true,
+      "path": "select/15_Unknown_to_the_I_Drab_Majesty.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "darjeeling (feat jorja smith & unknown t)",
+      "artist": "FKA twigs feat. Jorja Smith & unkown t",
+      "has_synced": true,
+      "path": "select/16_darjeeling_(feat_jorja_smith_&_unknown_t)_FKA_twigs_feat._Jorja_Smith_&_unkown_t.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Run Up (feat. Unknown T)",
+      "artist": "Chase & Status feat. Unknown T",
+      "has_synced": true,
+      "path": "select/17_Run_Up_(feat._Unknown_T)_Chase_&_Status_feat._Unknown_T.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Destination Unknown",
+      "artist": "Electric Light Orchestra",
+      "has_synced": false,
+      "path": "select/18_Destination_Unknown_Electric_Light_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "15. Destination Unknown",
+      "artist": "Electric Light Orchestra",
+      "has_synced": false,
+      "path": "select/19_15._Destination_Unknown_Electric_Light_Orchestra.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Unknown△▼",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_01_Unknown△▼_川田_まみ.txt"
+    }
+  ]
+}
